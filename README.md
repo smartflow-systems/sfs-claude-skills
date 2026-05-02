@@ -330,7 +330,7 @@ MIT License - Part of SmartFlow Systems ecosystem
 Future skills planned:
 - `sfs-testing-suite` - Comprehensive test setup
 - `sfs-analytics-integration` - Analytics and tracking
-- `sfs-email-service` - Email integration (SendGrid, Mailchimp)
+- `sfs-email-service` - Email integration (SendGrid only; Mailchimp not implemented)
 - `sfs-oauth-providers` - Social login (Google, GitHub)
 - `sfs-api-docs` - OpenAPI/Swagger documentation
 - `sfs-monitoring-alerts` - Error tracking and alerts

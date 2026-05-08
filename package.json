@@ -1,0 +1,15 @@
+{
+  "name": "sfs-claude-skills",
+  "version": "1.0.0",
+  "description": "SmartFlow Systems Claude Code skills and integrations",
+  "private": true,
+  "scripts": {
+    "lint": "echo \"No linter configured\" && exit 0",
+    "test": "echo \"No tests configured\" && exit 0",
+    "build": "echo \"No build step required\" && exit 0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
